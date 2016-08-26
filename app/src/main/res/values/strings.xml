@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="true_button">yes</string>
+    <string name="false_button">no</string>
+    <string name="question_text">Is %s is prime ?</string>
+    <string name="correct_toast">correct!</string>
+    <string name="incorrect_toast">incorrect!</string>
+    <string name="next_button">next</string>
+    <string name="hint_button">hint</string>
+    <string name="cheat_button">cheat</string>
+    <string name="warning_text">are you really want to cheat</string>
+    <string name="show_answer_button">show answer</string>
+    <string name="title_activity_cheat">Cheat</string>
+    <string name="cheated_toast">you have cheated.Please press next!</string>
+    <string name="already_answered_toast">you have already answered.Please press next!</string>
+
+
+</resources>
